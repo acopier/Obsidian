@@ -13,6 +13,7 @@ public enum EventType
     BlockBreak,
     IncomingChatMessage,
     ServerStatusRequest,
+    ServerCommand,
     EntityInteract,
     PlayerAttackEntity,
     PlayerInteract,
