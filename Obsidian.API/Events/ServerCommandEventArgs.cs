@@ -1,4 +1,4 @@
-using Obsidian.API;
+﻿using Obsidian.API;
 using Obsidian.API.Commands;
 using Obsidian.API.Events;
 
